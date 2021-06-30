@@ -1,2 +1,2 @@
 # dotnet-interactive
-Experiments with F# and notebooks
+Experiments with F# and notebooks [see IPlot.ipynb]
